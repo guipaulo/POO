@@ -1,2 +1,2 @@
 # POO
- Exercícios, Avaliações e Projetos de Programação Orientada a Objetos
+ Exercícios, Avaliações e Projetos de Programação Orientada a Objetos em C++
